@@ -1,18 +1,22 @@
-<h1 align="center">🚀 Minha Jornada com Open Source & Desenvolvimento Seguro</h1>
+# trilha-css-desafio-01
 
-<p align="center">
-  <strong>Desenvolvedor | Especialista em Segurança da Informação | Contribuidor Open Source</strong><br>
-  <a href="mailto:lucasescobarmorais@gmail.com">lucasescobarmorais@gmail.com</a> • 
-  <a href="https://github.com/Lalalucas">GitHub</a> • 
-  <a href="https://linkedin.com/in/lucasgdm">LinkedIn</a> • 
-  <a href="https://signal.me/#eu/Cw8TsrwvMGUxNxVIVcel3uA4uI0s8xr5rRz6Zi7YsrHuLOqO1Q9G-IZ2z4bxm3lF">Signal: MoraisLGM</a>
-</p>
+Repositório configurado automaticamente com estrutura inicial para um projeto Front-End.
 
-## 🏆 Conquista no Desafio DIO: "Me Criando"
-Participei e concluí com sucesso o desafio **"Me Criando"** da plataforma [DIO.me](https://dio.me)...
+## Estrutura do Projeto
 
-📄 [Visualizar meu certificado aqui](https://www.dio.me/certificate/3HCRYICV/share)
+- `index.html`: Página principal do projeto.
+- `css/style.css`: Arquivo de estilos CSS.
+- `js/script.js`: Arquivo de scripts JavaScript.
 
-...
+## Como usar
 
-<p align="center"><sub>Desenvolvido por Lucas Gabriel de Morais © 2025</sub></p>
+1. Clone o repositório:
+   ```bash
+   git clone git@github.com:Lalalucas/trilha-css-desafio-01.git
+   ```
+
+2. Abra o arquivo `index.html` no navegador.
+
+## Licença
+
+Este projeto está sob a licença [MIT](LICENSE).

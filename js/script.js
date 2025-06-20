@@ -1,1 +1,2 @@
-console.log('Projeto read -p "Digite o nome do repositório que deseja criar: " REPO_NAME');
+// JavaScript inicial
+console.log('Bem-vindo ao projeto trilha-css-desafio-01!');
