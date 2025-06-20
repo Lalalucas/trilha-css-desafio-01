@@ -1,6 +1,6 @@
 # trilha-css-desafio-01
 
-Repositório configurado automaticamente com estrutura inicial para um projeto Front-End.
+Desafio de criar uma landing page utilizando HTML e CSS.
 
 ## Estrutura do Projeto
 
